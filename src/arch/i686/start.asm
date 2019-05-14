@@ -299,6 +299,7 @@ isr31:
     push byte 31
     jmp isr_common_stub
 
+extern fault_handler
 isr_common_stub:
     pusha
     push ds
