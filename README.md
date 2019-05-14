@@ -14,8 +14,8 @@ Once you acquired all the necessary tools, you are ready to build the OS.
 Building is simple and only requires a few steps.
 
 ```
-$ git clone https://github.com/MWGuy/OS.git
-$ cd OS
+$ git clone https://github.com/MWGuy/NekoOS.git
+$ cd NekoOS
 $ make init ARCH=(i686, arm)
 $ make ARCH=(i686, arm) CROSSCOMPILER=your cross compiler
 ```
