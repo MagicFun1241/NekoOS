@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "net.h": "c",
+        "cmath": "c",
+        "arp.h": "c",
+        "bswap.h": "c",
+        "ipv4.h": "c",
+        "dns.h": "c",
+        "paging.h": "c",
+        "stdbool.h": "c",
+        "cmd.h": "c",
+        "dhcp.h": "c",
+        "pci.h": "c",
+        "multiboot1.h": "c",
+        "panic.h": "c",
+        "assert.h": "c",
+        "memory.h": "c",
+        "tty.h": "c",
+        "kernel.h": "c",
+        "idt.h": "c"
+    }
+}

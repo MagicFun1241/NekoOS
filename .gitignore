@@ -1,0 +1,10 @@
+*.o
+*.img
+*.hdd 
+*.pcap
+*.iso
+*.elf
+obj/
+iso/
+*.img
+*.cfg
